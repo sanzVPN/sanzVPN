@@ -1,16 +1,13 @@
-### Hi there 👋
+### INSTALL SCRIPT 
+```
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/sanzVPN/sanzVPN/main/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
+```
 
-<!--
-**sanzVPN/sanzVPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## UPDATE SCRIPT
+```
+wget -q https://raw.githubusercontent.com/sanzVPN/sanzVPN/main/update.sh && chmod +x update.sh && ./update.sh
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### WORK DI OS
+- UBUNTU 20.04.05
+- DEBIAN 10 ( Disarankan )

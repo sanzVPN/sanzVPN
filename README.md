@@ -11,3 +11,8 @@ wget -q https://raw.githubusercontent.com/sanzVPN/sanzVPN/main/files/update.sh &
 ### WORK DI OS
 - UBUNTU 20.04.05
 - DEBIAN 10 ( Disarankan )
+- OWNER SCRIPT : SANZ TUNNELING
+- WHATSAPP : wa.me/6282120514304
+- TELEGRAM : @sanzstore
+- NOTE : MAU MALING YA OM🤣
+

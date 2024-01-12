@@ -1,8 +1,8 @@
 # --------------------------------------------------
-# ENCRYPTED BY LUNATIC TUNNEL
-# Github   : http://github.com/LunaticTunnel
-# Facebook : http://facebook.com/Dean
-# Telegram : http://t.me/LunaticTunnel
+# ENCRYPTED BY SANZ TUNNEL
+# Github   : http://github.com/sanzVPN
+# Facebook : http://facebook.com/sanz
+# Telegram : http://t.me/sanzstore
 # --------------------------------------------------
 NFS=$(mktemp)
 base64 -d  >${NFS}<<B14CK-KN1GH7

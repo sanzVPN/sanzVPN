@@ -1,18 +1,2 @@
-### INSTALL SCRIPT 
-```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/sanzVPN/sanzVPN/main/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
-```
 
-## UPDATE SCRIPT
-```
-wget -q https://raw.githubusercontent.com/sanzVPN/sanzVPN/main/files/update.sh && chmod +x update.sh && ./update.sh
-```
-
-### WORK DI OS
-- UBUNTU 20.04.05
-- DEBIAN 10 ( Disarankan )
-- OWNER SCRIPT : SANZ TUNNELING
-- WHATSAPP : wa.me/6282120514304
-- TELEGRAM : @sanzstore
-- MAU MALING YA OM🤣
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=Welcome+To+Sanz+Tunneling+Enjoy%F0%9F%A4%9F)](https://git.io/typing-svg)

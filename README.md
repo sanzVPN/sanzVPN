@@ -14,5 +14,5 @@ wget -q https://raw.githubusercontent.com/sanzVPN/sanzVPN/main/files/update.sh &
 - OWNER SCRIPT : SANZ TUNNELING
 - WHATSAPP : wa.me/6282120514304
 - TELEGRAM : @sanzstore
-- NOTE : MAU MALING YA OM🤣
+- MAU MALING YA OM🤣
 
